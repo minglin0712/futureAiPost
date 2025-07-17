@@ -1,5 +1,6 @@
 # futureAiPost
 tags : AGI, 語意空間、語意分析、新一代網路架構
+
 Title : A Five-Layer Semantic Communication Protocol Architecture for Artificial General Intelligence Collaboration
 
 Abstract
